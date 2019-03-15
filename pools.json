@@ -20,6 +20,10 @@
             "name": "Huobi.pool",
             "link": "https://www.poolhb.com/"
         },
+        "/HuoBi/": {
+            "name": "Huobi.pool",
+            "link": "https://www.poolhb.com/"
+        },
         "/BTC.TOP/": {
             "name" : "BTC.TOP",
             "link" : "http://www.btc.top/"
@@ -64,6 +68,10 @@
             "name": "WAYI.CN",
             "link": "https://www.easy2mine.com/"
         },
+        "Easy2Mine" : {
+            "name": "WAYI.CN",
+            "link": "https://www.easy2mine.com/"
+        },
         "wayi/pool" : {
             "name": "WAYI.CN",
             "link": "https://www.easy2mine.com/"
@@ -95,6 +103,10 @@
         "/Multipool.us/" : {
             "name": "multipool.us",
             "link": "https://www.multipool.us/"
+        },
+        "gly.pool" : {
+            "name": "gly.pool",
+            "link": ""
         }
     },
     "payout_addresses" : {
