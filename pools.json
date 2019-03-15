@@ -1,0 +1,94 @@
+{
+    "coinbase_tags" : {
+        "/BTC.COM/" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "Mined by AntPool" : {
+            "name" : "AntPool",
+            "link" : "https://www.antpool.com/"
+        },
+        "Mined By AntPool" : {
+            "name" : "AntPool",
+            "link" : "https://www.antpool.com/"
+        },
+        "/AntPool/" : {
+            "name" : "AntPool",
+            "link" : "https://www.antpool.com/"
+        },
+        "/Huobi/": {
+            "name": "Huobi.pool",
+            "link": "https://www.poolhb.com/"
+        },
+        "/BTC.TOP/": {
+            "name" : "BTC.TOP",
+            "link" : "http://www.btc.top/"
+        },
+        "/LTC.TOP/": {
+            "name" : "BTC.TOP",
+            "link" : "http://www.btc.top/"
+        },
+        "七彩神仙鱼" : {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
+        },
+        "/slush/" : {
+           "name" : "SlushPool",
+           "link" : "https://slushpool.com/"
+        },
+        "BTCChina Pool" : {
+            "name" : "BTCC",
+            "link" : "https://pool.btcc.com/"
+        },
+        "btcchina.com" : {
+            "name" : "BTCC",
+            "link" : "https://pool.btcc.com/"
+        },
+        "BTCChina.com" : {
+            "name" : "BTCC",
+            "link" : "https://pool.btcc.com/"
+        },
+        "/BTCC/" : {
+            "name" : "BTCC",
+            "link" : "https://pool.btcc.com/"
+        },
+        "/HaoBTC/" : {
+            "name": "Bixin",
+            "link": "https://bixin.com/common/pool_landing"
+        },
+        "/ViaBTC/" : {
+            "name": "ViaBTC",
+            "link": "http://viabtc.com/"
+        },
+        "/Easy2Mine/" : {
+            "name": "WAYI.CN",
+            "link": "https://www.easy2mine.com/"
+        },
+        "Mined by bw.com" : {
+            "name": "BW.COM",
+            "link": "https://bw.com/"
+        },
+        "Kanpool.com" : {
+            "name": "Kanpool",
+            "link": "http://kanpool.com/"
+        },
+        "/nodeStratum/" : {
+            "name": "nodeStratum",
+            "link": ""
+        }
+    },
+    "payout_addresses" : {
+        "LTCPodtg91HsKf5xB1MQ5L13CkcSfd2rCV" : {
+            "name" : "litecoinpool.org",
+            "link" : "https://www.litecoinpool.org/"
+        },
+        "LZo1qx6S5JEVh43KahTFBdvnkVFeQCz9Ze" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "LajyQBeZaBA1NkZDeY8YT5RYYVRkXMvb2T" : {
+            "name" : "sigmapool.com",
+            "link" : "https://sigmapool.com/"
+        }
+    }
+}
