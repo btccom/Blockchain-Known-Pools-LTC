@@ -64,6 +64,10 @@
             "name": "WAYI.CN",
             "link": "https://www.easy2mine.com/"
         },
+        "wayi/pool" : {
+            "name": "WAYI.CN",
+            "link": "https://www.easy2mine.com/"
+        },
         "Mined by bw.com" : {
             "name": "BW.COM",
             "link": "https://bw.com/"
@@ -87,6 +91,10 @@
             "link" : "https://www.poolin.com/"
         },
         "LajyQBeZaBA1NkZDeY8YT5RYYVRkXMvb2T" : {
+            "name" : "F2Pool",
+            "link" : "https://www.f2pool.com/"
+        },
+        "LR5FzTHXfa4aGtozDJN5QmifNbVFxAwdui" : {
             "name" : "sigmapool.com",
             "link" : "https://sigmapool.com/"
         }
