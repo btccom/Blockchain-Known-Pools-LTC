@@ -79,6 +79,22 @@
         "/nodeStratum/" : {
             "name": "nodeStratum",
             "link": ""
+        },
+        "TBDice" : {
+            "name": "TBDice.org",
+            "link": "http://ltc.tbdice.org/"
+        },
+        "prohashing.com" : {
+            "name": "prohashing.com",
+            "link": "https://prohashing.com/"
+        },
+        "/DPOOL.TOP/LTC/" : {
+            "name": "DPOOL.TOP",
+            "link": "https://www.dpool.top/"
+        },
+        "/Multipool.us/" : {
+            "name": "multipool.us",
+            "link": "https://www.multipool.us/"
         }
     },
     "payout_addresses" : {
@@ -97,6 +113,22 @@
         "LR5FzTHXfa4aGtozDJN5QmifNbVFxAwdui" : {
             "name" : "sigmapool.com",
             "link" : "https://sigmapool.com/"
+        },
+        "LWJ1Eoa5o4fZnEdoH6cqoLYZqVTwQLyChn" : {
+            "name": "BW.COM",
+            "link": "https://bw.com/"
+        },
+        "LWWWS5amPuFLKK8Fndebrp4qyRF4f9DVKQ" : {
+            "name": "Kanpool",
+            "link": "http://kanpool.com/"
+        },
+        "MPBmxur79eixHjx8kSUnm1tc8tuxBgY8eG" : {
+            "name": "DPOOL.TOP",
+            "link": "https://www.dpool.top/"
+        },
+        "Ld7Po2mbs1mWtz5aVEVgmEzDp8Zw3ndwhm" : {
+            "name": "multipool.us",
+            "link": "https://www.multipool.us/"
         }
     }
 }
