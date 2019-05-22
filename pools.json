@@ -107,6 +107,18 @@
         "gly.pool" : {
             "name": "gly.pool",
             "link": ""
+        },
+        "/www.okpool.top/" : {
+            "name": "okpool.top",
+            "link": "https://www.okex.me/pool"
+        },
+        "/XNPool/" : {
+            "name": "XNPool",
+            "link": "https://www.xnpool.cn/"
+        },
+        "GIVE-ME-COINS.com" : {
+            "name": "GIVE-ME-COINS",
+            "link": ""
         }
     },
     "payout_addresses" : {
