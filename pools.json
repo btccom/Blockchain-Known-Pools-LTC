@@ -119,6 +119,14 @@
         "GIVE-ME-COINS.com" : {
             "name": "GIVE-ME-COINS",
             "link": ""
+        },
+        "/knightpool.top/" : {
+            "name": "KnightPool",
+            "link": "https://www.knightpool.top/"
+        },
+         "/mph/" : {
+            "name": "mph",
+            "link": ""
         }
     },
     "payout_addresses" : {
@@ -153,6 +161,14 @@
         "Ld7Po2mbs1mWtz5aVEVgmEzDp8Zw3ndwhm" : {
             "name": "multipool.us",
             "link": "https://www.multipool.us/"
+        },
+        "LaQASpgm6oWTJ4sYDF5xJHdiZYkMP7uSW1" : {
+            "name": "mph",
+            "link": ""
+        },
+        "LhjYaQaeYafYti4L3RiD2iDj1K3sySL5Ux" : {
+            "name": "KnightPool",
+            "link": "https://www.knightpool.top/"
         }
     }
 }
