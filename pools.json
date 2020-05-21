@@ -119,6 +119,10 @@
         "GIVE-ME-COINS.com" : {
             "name": "GIVE-ME-COINS",
             "link": ""
+        },
+        "kpool.top" : {
+            "name": "kpool",
+            "link": "https://www.kpool.top"
         }
     },
     "payout_addresses" : {
@@ -153,6 +157,10 @@
         "Ld7Po2mbs1mWtz5aVEVgmEzDp8Zw3ndwhm" : {
             "name": "multipool.us",
             "link": "https://www.multipool.us/"
+        },
+        "MJWXTm6sPvdZY7BGCa8atBvFq1rJs7Z66q": {
+            "name": "kpool",
+            "link": "https://www.kpool.top/"
         }
     }
 }
