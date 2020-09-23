@@ -119,6 +119,10 @@
         "GIVE-ME-COINS.com" : {
             "name": "GIVE-ME-COINS",
             "link": ""
+        },
+        "/hash.okkong.com/" : {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
         }
     },
     "payout_addresses" : {
@@ -157,6 +161,10 @@
         "Ld7Po2mbs1mWtz5aVEVgmEzDp8Zw3ndwhm" : {
             "name": "multipool.us",
             "link": "https://www.multipool.us/"
+        },
+        "LaEek58Mz5X1JAVa32hPBxb4qaSYxa4pxc" : {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
         }
     }
 }
