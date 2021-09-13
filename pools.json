@@ -120,6 +120,10 @@
             "name": "GIVE-ME-COINS",
             "link": ""
         },
+        "kpool.top" : {
+            "name": "kpool",
+            "link": "https://www.kpool.top"
+        },
         "/hash.okkong.com/" : {
             "name": "OKKONG",
             "link": "https://hash.okkong.com/"
@@ -185,6 +189,10 @@
         "Ld7Po2mbs1mWtz5aVEVgmEzDp8Zw3ndwhm" : {
             "name": "multipool.us",
             "link": "https://www.multipool.us/"
+        },
+        "MJWXTm6sPvdZY7BGCa8atBvFq1rJs7Z66q": {
+            "name": "kpool",
+            "link": "https://www.kpool.top/"
         },
         "LaEek58Mz5X1JAVa32hPBxb4qaSYxa4pxc" : {
             "name": "OKKONG",
