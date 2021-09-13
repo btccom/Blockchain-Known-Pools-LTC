@@ -127,6 +127,30 @@
          "/mph/" : {
             "name": "mph",
             "link": ""
+        },
+        "kpool.top" : {
+            "name": "kpool",
+            "link": "https://www.kpool.top"
+        },
+        "/hash.okkong.com/" : {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
+        },
+        "/poolin.com/" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "/DxPool/" : {
+            "name" : "DxPool",
+            "link" : "https://dxpool.com/"
+        },
+        "/hash.okkong.com/" : {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
+        },
+        "/LP/" : {
+            "name" : "litecoinpool.org",
+            "link" : "https://www.litecoinpool.org/"
         }
     },
     "payout_addresses" : {
@@ -134,7 +158,19 @@
             "name" : "litecoinpool.org",
             "link" : "https://www.litecoinpool.org/"
         },
+        "LTCPodha2LAxSyBGsGfkWcmKDEB8cWrqLU" : {
+            "name" : "litecoinpool.org",
+            "link" : "https://www.litecoinpool.org/"
+        },
         "LZo1qx6S5JEVh43KahTFBdvnkVFeQCz9Ze" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "LbLCMRq2oiNgxxesrg7SoCBAMsAAMTqmB9" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "LQ5X1r32bU3v2TgVxE9osb2YnCZNFY6ikm" : {
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
         },
@@ -162,13 +198,25 @@
             "name": "multipool.us",
             "link": "https://www.multipool.us/"
         },
-        "LaQASpgm6oWTJ4sYDF5xJHdiZYkMP7uSW1" : {
+        "LaQASpgm6oWTJ4sYDF5xJHdiZYkMP7uSW1": {
             "name": "mph",
             "link": ""
         },
         "LhjYaQaeYafYti4L3RiD2iDj1K3sySL5Ux" : {
             "name": "KnightPool",
             "link": "https://www.knightpool.top/"
+        },
+        "MJWXTm6sPvdZY7BGCa8atBvFq1rJs7Z66q": {
+            "name": "kpool",
+            "link": "https://www.kpool.top/"
+        },
+        "LaEek58Mz5X1JAVa32hPBxb4qaSYxa4pxc" : {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
+        },
+        "LLVgQqmASzZXdDUDauG77i7sBCvVHfEaSk" : {
+            "name" : "DxPool",
+            "link" : "https://dxpool.com/"
         }
     }
 }
