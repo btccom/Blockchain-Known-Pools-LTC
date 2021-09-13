@@ -123,10 +123,30 @@
         "/hash.okkong.com/" : {
             "name": "OKKONG",
             "link": "https://hash.okkong.com/"
+        },
+        "/poolin.com/" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "/DxPool/" : {
+            "name" : "DxPool",
+            "link" : "https://dxpool.com/"
+        },
+        "/hash.okkong.com/" : {
+            "name": "OKKONG",
+            "link": "https://hash.okkong.com/"
+        },
+        "/LP/" : {
+            "name" : "litecoinpool.org",
+            "link" : "https://www.litecoinpool.org/"
         }
     },
     "payout_addresses" : {
         "LTCPodtg91HsKf5xB1MQ5L13CkcSfd2rCV" : {
+            "name" : "litecoinpool.org",
+            "link" : "https://www.litecoinpool.org/"
+        },
+        "LTCPodha2LAxSyBGsGfkWcmKDEB8cWrqLU" : {
             "name" : "litecoinpool.org",
             "link" : "https://www.litecoinpool.org/"
         },
@@ -135,6 +155,10 @@
             "link" : "https://www.poolin.com/"
         },
         "LbLCMRq2oiNgxxesrg7SoCBAMsAAMTqmB9" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "LQ5X1r32bU3v2TgVxE9osb2YnCZNFY6ikm" : {
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
         },
@@ -165,6 +189,10 @@
         "LaEek58Mz5X1JAVa32hPBxb4qaSYxa4pxc" : {
             "name": "OKKONG",
             "link": "https://hash.okkong.com/"
+        },
+        "LLVgQqmASzZXdDUDauG77i7sBCvVHfEaSk" : {
+            "name" : "DxPool",
+            "link" : "https://dxpool.com/"
         }
     }
 }
