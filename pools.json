@@ -154,6 +154,10 @@
         }
     },
     "payout_addresses" : {
+        "LMs7eqZhREmAP4xpmXi6QQxVaqTYqPFTFK" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
         "LTCPodtg91HsKf5xB1MQ5L13CkcSfd2rCV" : {
             "name" : "litecoinpool.org",
             "link" : "https://www.litecoinpool.org/"
