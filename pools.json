@@ -225,6 +225,10 @@
         "LLVgQqmASzZXdDUDauG77i7sBCvVHfEaSk" : {
             "name" : "DxPool",
             "link" : "https://dxpool.com/"
+        },
+        "MXAFD6SpTeornCBZrdaTLreLqGaGywubyc" : {
+            "name" : "KuCoin Pool",
+            "link" : "https://www.kucoin.com/mining-pool"
         }
     }
 }
