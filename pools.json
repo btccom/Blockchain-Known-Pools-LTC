@@ -16,6 +16,10 @@
             "name" : "AntPool",
             "link" : "https://www.antpool.com/"
         },
+        "/Binance/": {
+            "name": "Binance Pool",
+            "link": "https://pool.binancezh.com/"
+        },
         "/Huobi/": {
             "name": "Huobi.pool",
             "link": "https://www.poolhb.com/"
@@ -143,10 +147,6 @@
         "/DxPool/" : {
             "name" : "DxPool",
             "link" : "https://dxpool.com/"
-        },
-        "/hash.okkong.com/" : {
-            "name": "OKKONG",
-            "link": "https://hash.okkong.com/"
         },
         "/LP/" : {
             "name" : "litecoinpool.org",
