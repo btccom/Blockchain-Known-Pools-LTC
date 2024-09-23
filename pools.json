@@ -1,8 +1,8 @@
 {
     "coinbase_tags" : {
         "/BTC.COM/" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com/"
         },
         "Mined by AntPool" : {
             "name" : "AntPool",
@@ -159,8 +159,8 @@
     },
     "payout_addresses" : {
         "LMs7eqZhREmAP4xpmXi6QQxVaqTYqPFTFK" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com/"
         },
         "LTCPodtg91HsKf5xB1MQ5L13CkcSfd2rCV" : {
             "name" : "litecoinpool.org",
