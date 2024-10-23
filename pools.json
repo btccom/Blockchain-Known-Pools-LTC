@@ -233,6 +233,10 @@
         "MXAFD6SpTeornCBZrdaTLreLqGaGywubyc" : {
             "name" : "KuCoin Pool",
             "link" : "https://www.kucoin.com/mining-pool"
+        },
+        "LcNS6c8RddAMjewDrUAAi8BzecKoosnkN3" : {
+            "name" : "SecPool",
+            "link" : "https://www.secpool.com"
         }
     }
 }
