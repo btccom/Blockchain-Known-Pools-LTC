@@ -159,6 +159,10 @@
         "SecPool":{
             "name" : "SecPool",
             "link" : "https://www.secpool.com"
+        },
+        "/CloverPool/" : {
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com/"
         }
     },
     "payout_addresses" : {
