@@ -155,6 +155,10 @@
         "/LP/" : {
             "name" : "litecoinpool.org",
             "link" : "https://www.litecoinpool.org/"
+        },
+        "SecPool":{
+            "name" : "SecPool",
+            "link" : "https://www.secpool.com"
         }
     },
     "payout_addresses" : {
