@@ -163,6 +163,10 @@
         "/CloverPool/" : {
             "name" : "CloverPool",
             "link" : "https://cloverpool.com/"
+        },
+        "SpiderPool" : {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     },
     "payout_addresses" : {
@@ -241,6 +245,10 @@
         "MXAFD6SpTeornCBZrdaTLreLqGaGywubyc" : {
             "name" : "KuCoin Pool",
             "link" : "https://www.kucoin.com/mining-pool"
+        },
+        "LPGxidDpG11iL4tdrdhxyJA4nTZWsKssok" : {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     }
 }
